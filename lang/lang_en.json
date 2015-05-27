@@ -1,5 +1,11 @@
 {
-    "L_HELLO": "Hello",
-    "L_BLACK": "Black",
-    "L_WHITE": "White"
+    	"L_WALLET_NOT_RUNNING": "Wallet not running!",
+	"L_SCRIPT_ABORTED": "Script wird aborted!",
+    	"L_NO_CHANGES": "No changes, no update needed!",
+    	"L_TERMBINCODE_IS": "Your Termbincode is:",
+	"L_NO_VALID_PAYMENT_ADDRESS_DEFINED": "No valid payment address defined!",
+	"L_CHECK_EXPIRING_DATE": "Check expiring date!",
+	"L_PAYMENT_ADDRESS_NOT_FOUND_IN_WALLET": "Payment address not found in wallet!",
+	"L_YOUR_NEW_CODE_IS": "your new termbincode is:",
+	"L_THIS_CODE_WILL_LINKED_TO": "This code will linked to termbin.com page ..."
 }

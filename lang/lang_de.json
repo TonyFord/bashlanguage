@@ -1,5 +1,11 @@
 {
-    "L_HELLO": "Hallo",
-    "L_BLACK": "Schwarz",
-    "L_WHITE": "Weiss"
+    	"L_WALLET_NOT_RUNNING": "Wallet läuft nicht!",
+	"L_SCRIPT_ABORTED": "Script abgebrochen!",
+   	"L_NO_CHANGES": "Keine Änderungen, Aktualisierung nicht notwendig!",
+   	"L_TERMBINCODE_IS": "Dein Termbincode lautet:",
+	"L_NO_VALID_PAYMENT_ADDRESS_DEFINED": "Keine gültige Zahlungsadresse definiert!",
+	"L_CHECK_EXPIRING_DATE": "Überprüfe das Gültigkeitsdatum!",
+	"L_PAYMENT_ADDRESS_NOT_FOUND_IN_WALLET": "Zahlungsadresse nicht in der Wallet gefunden!",
+	"L_YOUR_NEW_CODE_IS": "Dein neuer Termbincode lautet:",
+	"L_THIS_CODE_WILL_LINKED_TO": "Dieser Termbincode ist mit folgender Seite verlinkt..."
 }
