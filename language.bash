@@ -16,5 +16,9 @@ function linit()
 
 function lout()
 {
-	echo $langjson | jq -r '.["'$1'"]'
+	outp=`echo $langjson | jq -r '.["'$1'"]'`
+	if [ "$outp" == "" ]; then
+		outp=$1
+	fi
+	echo $outp
 }
